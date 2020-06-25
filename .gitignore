@@ -2,7 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+#This file ignores all file types "*.<extension>" 
 # C extensions
 *.so
 
